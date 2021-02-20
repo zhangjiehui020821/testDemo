@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../../../../iconImage/icon_delete.png</file>
+        <file>../../../../../../iconImage/icon_maximize .png</file>
+        <file>../../../../../../iconImage/icon_minimize.png</file>
+        <file>../../../../../../iconImage/icon_close.png</file>
+        <file>../../../../../../iconImage/icon_openImage.png</file>
+        <file>../../../../../../iconImage/icon_openCamera.png</file>
+        <file>../../../../../../iconImage/icon_1_1.png</file>
+        <file>../../../../../../iconImage/icon_Cursors.png</file>
+        <file>../../../../../../iconImage/icon_mousePG.png</file>
+        <file>../../../../../../iconImage/icon_zoomIn.png</file>
+        <file>../../../../../../iconImage/icon_zoomOut.png</file>
+        <file>../../../../../../iconImage/icon_advance.png</file>
+        <file>../../../../../../iconImage/icon_retreat.png</file>
+        <file>../../../../../../iconImage/icon_set.png</file>
+        <file>../../../../../../iconImage/icon_skin.png</file>
+        <file>../../../../../../iconImage/icon_welcome.png</file>
+        <file>../../../../../../iconImage/icon_debug.png</file>
+        <file>../../../../../../iconImage/icon_run.png</file>
+        <file>../../../../../../iconImage/icon_title_black.png</file>
+        <file>../../../../../../iconImage/icon_title_red.png</file>
+        <file>../../../../../../iconImage/icon_circular.png</file>
+        <file>../../../../../../iconImage/icon_rectangular.png</file>
+        <file>../../../../../../iconImage/icon_rotatingRectangular.png</file>
+        <file>../../../../../../iconImage/icon_The ellipse.png</file>
+        <file>../../../../../../iconImage/icon_scale_image.png</file>
+        <file>../../../../../../iconImage/icon_threshold.png</file>
+        <file>../../../../../../iconImage/icon_ erosion.png</file>
+        <file>../../../../../../iconImage/icon_closedOperation.png</file>
+        <file>../../../../../../iconImage/icon_OpenOperation.png</file>
+        <file>../../../../../../iconImage/icon_swell.png</file>
+        <file>../../../../../../iconImage/icon_Gaosi.png</file>
+        <file>../../../../../../iconImage/icon_Junzhi.png</file>
+        <file>../../../../../../iconImage/icon_Zhongzhi.png</file>
+        <file>../../../../../../iconImage/icon_Daoxiang.png</file>
+    </qresource>
+</RCC>
